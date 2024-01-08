@@ -1,0 +1,22 @@
+.SlideLeftPart {
+  display: inline-block;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: #fff6ef;
+}
+
+.SlideContainer{
+    height: 450px;
+}
+@media screen and (max-width: 992px) {
+  .SlideContainer {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #fff6ef;
+  }
+}

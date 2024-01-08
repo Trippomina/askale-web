@@ -1,0 +1,6 @@
+.AuthContainer{
+    min-height: 100vh;
+    background: url('./authbg.png') center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

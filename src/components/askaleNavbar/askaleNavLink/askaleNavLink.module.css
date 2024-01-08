@@ -1,0 +1,20 @@
+.InnerLink {
+  color: black;
+}
+
+.InnerLink:hover {
+  opacity: 0.7;
+}
+
+.InnerLinkActive {
+  color: #fe7965;
+}
+
+
+.FooterLink{
+    color: black;
+}
+
+.FooterLink:hover{
+    opacity: 0.7;
+}
